@@ -1,0 +1,23 @@
+{
+  "name": "thecoder/laravel-performance",
+  "description": "Laravel Performance Check",
+  "keywords": [
+    "laravel",
+    "performance"
+  ],
+  "homepage": "https://github.com/mbpcoder/laravel-performance",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Mahdi Bagheri",
+      "email": "thecoder.ir@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TheCoder\\MonologTelegram\\": "src"
+    }
+  }
+}
